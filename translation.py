@@ -6,8 +6,8 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @InFoTelGroup
-© @SpEcHlDe , @TGBotsZ & @CWProjects"""
+Support Group : @filmsandtrends
+https://t.me/joinchat/AAAAAEuWaGx_K9kat9IiFg & https://t.me/joinchat/Tb-f8lNcwAEe01TLEYlixg"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
